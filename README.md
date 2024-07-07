@@ -44,7 +44,7 @@ AI is being applied across a wide range of fields and industries, including:
 
 While AI offers numerous benefits, it also presents several challenges and ethical considerations:
 
-- **Bias and Fairness**: AI systems can perpetuate and even amplify existing biases present in the data they are trained on. Ensuring fairness and eliminating bias is a critical concern.
+- **Bias and Fairness**:AI systems can sometimes pick up and even make worse the biases that are already in the data they learn from. It's really important to make sure these systems are fair and free from bias.
 - **Privacy**: The use of AI often involves the collection and analysis of large amounts of data, raising concerns about data privacy and security.
 - **Job Displacement**: The automation of tasks by AI could lead to job displacement in certain industries, necessitating measures to retrain and support affected workers.
 
